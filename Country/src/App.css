@@ -1,0 +1,48 @@
+body{
+width: 50%;
+
+margin: auto;
+margin-top: 5%;
+
+}
+
+.inner{
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 48px;
+  width: 100%;
+  background-color: chartreuse;
+  height: 80vh;
+
+ 
+}
+.inner h1{
+  font-size: 20px;
+  text-align: center;
+  color: navy;
+}
+h1{
+  padding: 10px;
+}
+.count{
+  width: 80%;
+margin: auto;
+margin-bottom: 15px;
+}
+
+.inpu{
+  display: block;
+  width: 96%;
+  padding: 10px;
+}
+
+.count22{
+  display: flex;justify-content: space-around;
+  text-align: center;
+}
+
+
+
+.curren {
+  border: 2px solid gray;
+  padding: 9px;
+  border-radius: 11px;
+}
